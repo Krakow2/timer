@@ -13,7 +13,7 @@ body {
   background: #00ecb9;
   font-family: kal;
   font-weight: 900;
-  background: url(/OFF.gif);
+  background: url(OFF.gif);
   background-repeat: y-repeat;
 }
 .container{
